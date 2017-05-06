@@ -1,7 +1,6 @@
 {
-  "name": "pub",
+  "name": "npmpublishlearshar",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/rchandra12/npmpubdemo/issues"
   },
-  "homepage": "https://github.com/rchandra12/npmpubdemo#readme"
+  "homepage": "https://github.com/rchandra12/npmpubdemo#readme",
+  "description": ""
 }
